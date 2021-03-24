@@ -21,6 +21,7 @@ A curated list of awesome [OVN](https://github.com/ovn-org/ovn) resources
 
 * [ovn-fake-multinode](https://github.com/ovn-org/ovn-fake-multinode) - Easy way to deploy a test cluster. Uses docker-in-docker to emulate a compute node and a vm inside of it
 * [vagrants](https://github.com/danalsan/vagrants) - Similar to ovn-fake-multinode but with real VMs. A lot of common usage topologies
+* [ovn-heater](https://github.com/dceara/ovn-heater) - Scripts to install/configure/run [ovn-scale-test](https://github.com/ovn-org/ovn-scale-test) on a simulated cluster deployed with ovn-fake-multinode.
 
 ## Visualization and Troubleshooting
 
