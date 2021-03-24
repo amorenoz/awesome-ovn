@@ -4,7 +4,7 @@ A curated list of awesome [OVN](https://github.com/ovn-org/ovn) resources
 ## Official documentation
 
 * [OVN Documentation](https://docs.ovn.org/en/latest/)
-* [OVN Architecture](https://man7.org/linux/man-pages/man7/ovn-architecture.7.html)
+* [OVN Architecture](https://www.ovn.org/support/dist-docs/ovn-architecture.7.html)
 
 ## Blogs and articles
 
