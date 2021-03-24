@@ -15,7 +15,10 @@ A curated list of awesome [OVN](https://github.com/ovn-org/ovn) resources
 * [OVN Cluster Interconnection](http://dani.foroselectronica.es/ovn-cluster-interconnection-567/), by Daniel Álvarez. February 13, 2020
 * [OVN and DHCP: A minimal example](https://blog.oddbit.com/post/2019-12-19-ovn-and-dhcp/), by Lars Kellogg-Stedman. December 19, 2019
 * [How to create an Open Virtual Network distributed gateway router](https://developers.redhat.com/blog/2018/11/08/how-to-create-an-open-virtual-network-distributed-gateway-router/), by Numan Siddique. November 8, 2019
+* [How to create an Open Virtual Network distributed gateway router](https://numans.blog/2018/11/30/how-to-create-an-open-virtual-network-distributed-gateway-router/), my Numan Siddique. November 30, 2018
 * [OVN - Profiling and optimizing ports creation](http://dani.foroselectronica.es/ovn-profiling-and-optimizing-ports-creation-434/), by Daniel Álvarez. February 27, 2018
+* [Debugging OVN external connectivity](https://numans.blog/2018/01/05/debugging-ovn-external-connectivity-part-1/), by Numan Siddique. January 5, 2018
+* [Native DHCP support in OVN](https://numans.blog/2016/08/09/native-dhcp-support-in-ovn/), by Numan Siddique. August 9, 2016
 
 ## Testing and Development
 
