@@ -27,7 +27,11 @@ A curated list of awesome [OVN](https://github.com/ovn-org/ovn) resources
 * [vagrants](https://github.com/danalsan/vagrants) - Similar to ovn-fake-multinode but with real VMs. A lot of common usage topologies
 * [ovn-heater](https://github.com/dceara/ovn-heater) - Scripts to install/configure/run [ovn-scale-test](https://github.com/ovn-org/ovn-scale-test) on a simulated cluster deployed with ovn-fake-multinode.
 
+## Language bindings
+* [libovsdb](https://github.com/ovn-org/libovsdb) - An OVSDB Library written in Go. Can be used to interact with OVN Northbound and Southbound DBs
+
+
 ## Visualization and Troubleshooting
 
 * [ovn_viewer](https://github.com/ralonsoh/ovn_viewer) - A graphical viewer of the NB and SB databases
-* [ovnmodel](https://github.com/amorenoz/ovnmodel) - An OVN database visualization tool based on auto-generated schema bindings (experimental)
+* [ovnmon](https://github.com/amorenoz/ovnmon) - An OVN database monitoring and introspection tool based on auto-generated schema bindings
