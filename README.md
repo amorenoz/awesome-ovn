@@ -35,3 +35,9 @@ A curated list of awesome [OVN](https://github.com/ovn-org/ovn) resources
 
 * [ovn_viewer](https://github.com/ralonsoh/ovn_viewer) - A graphical viewer of the NB and SB databases
 * [ovnmon](https://github.com/amorenoz/ovnmon) - An OVN database monitoring and introspection tool based on auto-generated schema bindings
+
+## Kubernetes
+
+* [ovn-kubernetes](https://github.com/ovn-org/ovn-kubernetes) - Kubernetes integration for OVN from ovn-org
+* [kube-ovn](https://github.com/kubeovn/kube-ovn) - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations
+
