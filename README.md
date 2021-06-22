@@ -29,6 +29,7 @@ A curated list of awesome [OVN](https://github.com/ovn-org/ovn) resources
 
 ## Language bindings
 * [libovsdb](https://github.com/ovn-org/libovsdb) - An OVSDB Library written in Go. Can be used to interact with OVN Northbound and Southbound DBs
+* [go-ovn](https://github.com/eBay/go-ovn) - A Go library for OVN Northbound/Southbound DB access using native OVSDB protocol
 
 
 ## Visualization and Troubleshooting
